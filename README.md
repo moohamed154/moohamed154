@@ -24,16 +24,27 @@ I love creating responsive, high-performance apps with Flutter and Dart, and I�
 
 ---
 
-### ​ Projects
+### 📂 Flutter Projects
 
-Here are some of the standout projects I’ve created (check pinned repos on GitHub for more):
+Here are all of my public Flutter repositories on GitHub:
 
-- **E-Commerce Store App** (`store_app`) – A full-featured Flutter store application with Firebase backend, shopping cart, wishlist, and order tracking.  
-- **Chat App** (`chat_app`) – Real-time messaging app built with Flutter and Firebase, featuring custom chat UI and notifications.  
-- **Weather App** (`weather_app`) – Flutter app using OpenWeather API, with adaptive layouts and dynamic weather updates.  
-- **News App** (`news_app`) – Flutter application that displays real-time news via RESTful APIs, includes dark mode and filtering functionality.  
-- **Bookly** (`bookly`) – An app (likely Flutter-based) related to book management or discovery—feel free to add specifics!  
-- **Notes App** (`notes_app`) – A simple note-taking app, possibly written in Dart or C++—add your details on functionality and tech used.  
+- **🍎 Fruits Hub Dashboard** (`fruits_hub_dashboard`) – A Flutter admin dashboard for managing fruits store data with responsive UI.  
+- **🍎 Fruits Hub** (`fruits_hub`) – A fruits e-commerce Flutter app with modern design and smooth user experience.  
+- **📝 Notes App** (`notes_app`) – A simple note-taking Flutter application with persistent storage.  
+- **📊 Responsive Dashboard** (`responsive_dashboard`) – Flutter project showcasing a responsive admin dashboard layout.  
+- **🗄️ SQL Notes App** (`sql_notes_app`) – Notes app built in Flutter with SQLite integration for offline persistence.  
+- **🔐 Auth Screen** (`auth_screen`) – Authentication screen UI built with Flutter.  
+- **🚀 Onboard Screen** (`on_board_screen`) – Onboarding screen flow for mobile apps, built with Flutter.  
+- **🍔 Rockets Fast Food** (`rockets_fast_food`) – A fast-food ordering system app developed in Flutter.  
+- **📚 Bookly** (`bookly`) – Flutter app for browsing and discovering books (with API integration).  
+- **💬 Chat App** (`chat_app`) – A real-time Flutter chat application with Firebase backend.  
+- **🛒 Store App** (`store_app`) – Full-featured e-commerce app with cart, wishlist, and order tracking.  
+- **🌦️ Weather App** (`weather_app`) – Weather forecasting Flutter app using REST APIs.  
+- **🏀 Basketball Points Counter** (`basketball_points_counter`) – A simple Flutter app to keep track of basketball game scores.  
+- **📰 News App** (`news_app`) – News application fetching and displaying articles from REST APIs.  
+- **🎵 Tunes Player App** (`tunes_player_app`) – A Flutter music player app with clean UI.  
+- **🎮 Tuko** (`tuko`) – A Flutter experimental game/app project.  
+- **💳 Business Card App** (`business_card_app`) – Flutter app to display a personal business card with contact details.
 
 *(Descriptions assume typical functionality—let me know if any details need tweaking based on your implementation.)*
 
