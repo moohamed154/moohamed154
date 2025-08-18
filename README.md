@@ -28,7 +28,7 @@ I love creating responsive, high-performance apps with Flutter and Dart, and I�
 
 Here are all of my public Flutter repositories on GitHub:
 
-- **🌍 Localization in Flutter (localization_in_flutter) – A complete Flutter project demonstrating multi-language support with intl, dynamic text translation, date/number formatting, and RTL support.
+- 🌍 Localization in Flutter (localization_in_flutter) – A complete Flutter project demonstrating multi-language support with intl, dynamic text translation, date/number formatting, and RTL support.
 - **🍎 Fruits Hub Dashboard** (`fruits_hub_dashboard`) – A Flutter admin dashboard for managing fruits store data with responsive UI.  
 - **🍎 Fruits Hub** (`fruits_hub`) – A fruits e-commerce Flutter app with modern design and smooth user experience.  
 - **📝 Notes App** (`notes_app`) – A simple note-taking Flutter application with persistent storage.  
