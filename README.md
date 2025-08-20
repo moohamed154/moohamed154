@@ -47,8 +47,6 @@ Here are all of my public Flutter repositories on GitHub:
 - **🎮 Tuko** (`tuko`) – A Flutter experimental game/app project.  
 - **💳 Business Card App** (`business_card_app`) – Flutter app to display a personal business card with contact details.
 
-*(Descriptions assume typical functionality—let me know if any details need tweaking based on your implementation.)*
-
 ---
 
 ### ​ Highlights
